@@ -36,7 +36,8 @@ lotcost-estimator is a web-based tool that allows users to estimate the area and
 5. View results on the right panel.
 
 ## 📷 Logo  
-![Project Logo](https://github.com/user-attachments/assets/0b524701-1f11-45cc-98e2-a74caca0be2c)
+![logo](https://github.com/user-attachments/assets/7de15687-42c7-4855-af2c-37f2e14f9a8f)
+
 
 ## 🔗 Technologies Used
 - **Google Earth Engine (GEE)**
