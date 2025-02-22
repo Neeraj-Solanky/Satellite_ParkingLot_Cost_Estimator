@@ -4,6 +4,8 @@
 lotcost-estimator is a web-based tool that allows users to estimate the area and cost of parking lots using high-resolution satellite imagery. Built with **Google Earth Engine (GEE)**, the application enables users to draw polygons over parking lots, compute their area, and estimate material, labor, and equipment costs dynamically.
 
 🔗 **Live Project:** [lotcost-estimator](https://geo-parking-cost.projects.earthengine.app/view/lotcost-estimator)
+🔗 **Live Project pro:**  [lotcost-estimator](https://geo-parking-cost.projects.earthengine.app/view/lotcost-estimator-pro)
+🔗 **Live Project pro2:**  [lotcost-estimator](https://geo-parking-cost.projects.earthengine.app/view/lotcost-estimator-pro-20)
 
 ## 🌟 Features
 - **Satellite Image Processing**: Uses **USDA NAIP** high-resolution imagery.
